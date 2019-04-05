@@ -8,8 +8,8 @@ def assign_variable(value)
   
 end
 
-def argue(arguement)
-  puts arguement
+def argue(argument)
+  puts argument
   
 end
 
