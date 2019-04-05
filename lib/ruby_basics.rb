@@ -25,6 +25,6 @@ def last_evaluated_value
 "expert"
 end
 
-def pizza_party(ny_style = cheese)
+def pizza_party(ny_style = "cheese")
 ny_style
 end
